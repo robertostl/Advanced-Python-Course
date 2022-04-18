@@ -1,3 +1,2 @@
-#This is the project's README file
-
-### replace me with important information
+# Advanced Python Course
+This is the repository of the "Advanced Python" Course from Linkedin Learning.
